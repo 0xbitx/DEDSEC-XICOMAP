@@ -5,7 +5,7 @@
 <img src="https://www.transparentpng.com/thumb/anonymous-mask/white-anonymous-mask-png-6.png", width="400", height="400">
 </p>
 <h1 align="center"> DEDSEC-XICOMAP</h1>
-<h4 align="center">DEDSEC-XICOMAP is a Web-Based Device Tracker is a cutting-edge solution that captures crucial user data, including IP addresses, device information, and exact locations, directly from visitors to a designated webpage. This data is then seamlessly integrated into the main web tool, allowing for the precise mapping of user GPS locations alongside their IP and device details.</h4>
+<h4 align="center">DEDSEC-XICOMAP is a Web-Based Device Tracker that captures crucial user data, including IP addresses, device information, and exact locations, directly from visitors to a designated webpage. This data is then seamlessly integrated into the main web tool, allowing for the precise mapping of user GPS locations alongside their IP and device details.</h4>
 
 ## Key Features
 
