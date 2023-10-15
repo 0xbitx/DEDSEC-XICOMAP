@@ -8,11 +8,12 @@
 <h4 align="center">DEDSEC-XICOMAP is a Web-Based Device Tracke is a cutting-edge solution that captures crucial user data, including IP addresses, device information, and exact locations, directly from visitors to a designated webpage. This data is then seamlessly integrated into the main web tool, allowing for the precise mapping of user GPS locations alongside their IP and device details.</h4>
 
 
-## SCREENSHOT 
+<h3 align="center"> SCREENSHOT</h3>
 <p align="center">
 <img src="https://github.com/0xbitx/DEDSEC-XICOMAP/blob/main/mode/xicomap.png", width="1000", height="1000">
 </p>
 
+<h3 align="center"> MAP MODES</h3>
 <table>
   <tr>
     <td align="center">
