@@ -13,6 +13,69 @@
 <img src="https://github.com/0xbitx/DEDSEC-XICOMAP/blob/main/mode/xicomap.png", width="1000", height="1000">
 </p>
 
+<table>
+  <tr>
+    <td align="center">
+      <a href="#"><img src="https://github.com/0xbitx/DEDSEC-XICOMAP/blob/main/mode/light-mode.png" width="250" /></a>
+        <br />
+      light mode
+      </a>
+    </td>
+    <td align="center">
+      <a href="#"><img src="https://github.com/0xbitx/DEDSEC-XICOMAP/blob/main/mode/dark-mode.png" width="250" /></a>
+        <br />
+      dark mode
+      </a>
+    </td>
+    <td align="center">
+      <a href="#"><img src="https://github.com/0xbitx/DEDSEC-XICOMAP/blob/main/mode/dark2-mode.png" width="250" /></a>
+        <br />
+      dark2 mode
+      </a>
+    </td>
+    <td align="center">
+      <a href="#"><img src="https://github.com/0xbitx/DEDSEC-XICOMAP/blob/main/mode/street-mode.png" width="250" /></a>
+        <br />
+      street mode
+      </a>
+    </td>
+  </tr>
+     <tr>
+    <td align="center">
+      <a href="#"><img src="https://github.com/0xbitx/DEDSEC-XICOMAP/blob/main/mode/satellite-mode.png" width="250" /></a>
+        <br />
+      satellite mode
+      </a>
+    </td>
+    <td align="center">
+      <a href="#"><img src="https://github.com/0xbitx/DEDSEC-XICOMAP/blob/main/mode/terrain-mode.png" width="250" /></a>
+        <br />
+      terrrain mode
+      </a>
+    </td>
+        <td align="center">
+      <a href="#"><img src="https://github.com/0xbitx/DEDSEC-XICOMAP/blob/main/mode/terrain2-mode.png" width="250" /></a>
+            <br />
+      terrain2 mode
+      </a>
+    </td>
+    <td align="center">
+      <a href="#"><img src="https://github.com/0xbitx/DEDSEC-XICOMAP/blob/main/mode/transpo-mode.png" width="250" /></a>
+        <br />
+      tranpo mode
+      </a>
+    </td>
+  </tr>
+   <tr>
+       <td align="center">
+          <a href="#"><img src="https://github.com/0xbitx/DEDSEC-XICOMAP/blob/main/mode/layout-mode.png" width="250" /></a>
+           <br />
+      layout mode
+      </a>
+      </td>
+   </tr>
+</table>
+
 ## INSTALLATION 
     * git clone https://github.com/0xbitx/DEDSEC-XICOMAP.git
     * cd DEDSEC-XICOMAP
