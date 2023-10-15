@@ -21,6 +21,10 @@
 ### Street View
 - Explore street-level imagery for specific GPS locations, providing a ground-level perspective for enhanced context and navigation.
 
+### PAYLOAD TEMPLATES
+- Google drive
+- on going..
+
 ### Map Mode Options
 - Light Mode: A clean and easy-to-read display.
 - Dark Mode: A visually pleasing dark-themed map for reduced eye strain.
