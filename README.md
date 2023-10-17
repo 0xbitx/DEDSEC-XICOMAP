@@ -30,8 +30,6 @@
 - Satellite Mode: Utilize satellite imagery for an aerial perspective.
 - Terrain Mode: Highlight topographical features for better context.
 - Transportation Mode: Focus on transportation infrastructure.
-- Layout Mode: Customize the map's layout for optimal user experience.
-
 
 <h3 align="center"> MAIN PAGE</h3>
 <p align="center">
@@ -54,52 +52,38 @@
       </a>
     </td>
     <td align="center">
-      <a href="#"><img src="https://github.com/0xbitx/DEDSEC-XICOMAP/blob/main/mode/dark2-mode.png" width="250" /></a>
-        <br />
-      dark2 mode
-      </a>
-    </td>
-    <td align="center">
-      <a href="#"><img src="https://github.com/0xbitx/DEDSEC-XICOMAP/blob/main/mode/street-mode.png" width="250" /></a>
+     <a href="#"><img src="https://github.com/0xbitx/DEDSEC-XICOMAP/blob/main/mode/street-mode.png" width="250" /></a>
         <br />
       street mode
       </a>
     </td>
-  </tr>
-     <tr>
     <td align="center">
       <a href="#"><img src="https://github.com/0xbitx/DEDSEC-XICOMAP/blob/main/mode/satellite-mode.png" width="250" /></a>
         <br />
       satellite mode
       </a>
     </td>
+  </tr>
+     <tr>
     <td align="center">
-      <a href="#"><img src="https://github.com/0xbitx/DEDSEC-XICOMAP/blob/main/mode/terrain-mode.png" width="250" /></a>
+<a href="#"><img src="https://github.com/0xbitx/DEDSEC-XICOMAP/blob/main/mode/terrain-mode.png" width="250" /></a>
         <br />
-      terrrain mode
+      terrrain1 mode
+      </a>
+    </td>
+    <td align="center">
+   <a href="#"><img src="https://github.com/0xbitx/DEDSEC-XICOMAP/blob/main/mode/terrain2-mode.png" width="250" /></a>
+        <br />
+      terrrain2 mode
       </a>
     </td>
         <td align="center">
-      <a href="#"><img src="https://github.com/0xbitx/DEDSEC-XICOMAP/blob/main/mode/terrain2-mode.png" width="250" /></a>
+<a href="#"><img src="https://github.com/0xbitx/DEDSEC-XICOMAP/blob/main/mode/transpo-mode.png" width="250" /></a>
             <br />
-      terrain2 mode
+      transpo mode
       </a>
     </td>
-    <td align="center">
-      <a href="#"><img src="https://github.com/0xbitx/DEDSEC-XICOMAP/blob/main/mode/transpo-mode.png" width="250" /></a>
-        <br />
-      transportation mode
-      </a>
-    </td>
-  </tr>
-   <tr>
-       <td align="center">
-          <a href="#"><img src="https://github.com/0xbitx/DEDSEC-XICOMAP/blob/main/mode/layout-mode.png" width="250" /></a>
-           <br />
-      layout mode
-      </a>
-      </td>
-   </tr>
+
 </table>
 
 ## INSTALLATION 
