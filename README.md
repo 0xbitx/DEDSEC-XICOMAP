@@ -1,6 +1,4 @@
 
-
-
 <p align="center">
 <img src="https://media3.giphy.com/media/2kXM55r2Ki78LsavEQ/giphy.gif?cid=ecf05e47sa6taafie5ln5fpq9upbt26tjiikgtr6inq0us36&ep=v1_gifs_related&rid=giphy.gif&ct=s", width="400", height="400">
 </p>
@@ -107,7 +105,7 @@
 ## INSTALLATION 
     * git clone https://github.com/0xbitx/DEDSEC-XICOMAP.git
     * cd DEDSEC-XICOMAP
-    * sudo pip3 install pystyle pycryptodome tabulate
+    * sudo pip3 install pystyle pycryptodome tabulate tqdm
     * sudo python3 dedsec_xicomap.py
 
 ### TESTED ON FOLLOWING
