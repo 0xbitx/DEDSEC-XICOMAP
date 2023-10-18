@@ -7,29 +7,27 @@
 
 ## Key Features
 
-### Webpage Data Collection
-- When users visit the payload webpage, the tool automatically collects their IP address, device information, and precise location data.
+| Feature | Description                |
+| :-------- | ------------------------- |
+| 1. Webpage Data Collection |   When users visit the payload webpage, the tool automatically collects their IP address, device information, and precise location data.|
+| 2. Real-Time Integration | The collected data is instantly integrated into the main web tool, ensuring up-to-the-minute accuracy.|
+| 3.  GPS Location Mapping |  Users' GPS locations are visually represented on a map within the tool, providing an easy-to-understand overview of their positions. |
+| 4.  Street View |  Explore street-level imagery for specific GPS locations, providing a ground-level perspective for enhanced context and navigation.|
 
-### Real-Time Integration
-- The collected data is instantly integrated into the main web tool, ensuring up-to-the-minute accuracy.
-
-### GPS Location Mapping
-- Users' GPS locations are visually represented on a map within the tool, providing an easy-to-understand overview of their positions.
-
-### Street View
-- Explore street-level imagery for specific GPS locations, providing a ground-level perspective for enhanced context and navigation.
 
 ### PAYLOAD TEMPLATES
 - Google drive
 - on going..
 
 ### Map Mode Options
-- Light Mode: A clean and easy-to-read display.
-- Dark Mode: A visually pleasing dark-themed map for reduced eye strain.
-- Street Mode: A detailed view emphasizing road and street information.
-- Satellite Mode: Utilize satellite imagery for an aerial perspective.
-- Terrain Mode: Highlight topographical features for better context.
-- Transportation Mode: Focus on transportation infrastructure.
+| Mode | Description                |
+| :-------- | ------------------------- |
+| 1. Light  |  A clean and easy-to-read display. |
+| 2. Dark  |   A visually pleasing dark-themed map for reduced eye strain.|
+| 3. Street  | A detailed view emphasizing road and street information. |
+| 4. Satellite  | Utilize satellite imagery for an aerial perspective. |
+| 5. Terrain | Highlight topographical features for better context. |
+| 6. Transportation  | Focus on transportation infrastructure. |
 
 <h3 align="center"> MAIN PAGE</h3>
 <p align="center">
@@ -85,6 +83,10 @@
     </td>
 
 </table>
+
+## DEMO  
+<video width="630" height="300" src="https://user-images.githubusercontent.com/126239/151127893-5c98ba8d-c431-4a25-bb1f-e0b33645a2b6.mp4"></video>
+
 
 ## INSTALLATION 
     * git clone https://github.com/0xbitx/DEDSEC-XICOMAP.git
