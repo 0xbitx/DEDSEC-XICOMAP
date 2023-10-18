@@ -29,6 +29,12 @@
 | 5. Terrain | Highlight topographical features for better context. |
 | 6. Transportation  | Focus on transportation infrastructure. |
 
+<h2 align="center">TOOL BANNER</h2>
+
+<p align="center">
+<img src="https://github.com/0xbitx/DEDSEC-XICOMAP/blob/main/mode/banner.png", width="600", height="600">
+</p>
+
 <h3 align="center"> MAIN PAGE</h3>
 <p align="center">
 <img src="https://github.com/0xbitx/DEDSEC-XICOMAP/blob/main/mode/xicomap.png", width="1000", height="1000">
