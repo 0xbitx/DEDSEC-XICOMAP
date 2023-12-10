@@ -97,8 +97,9 @@
 ## INSTALLATION 
     * git clone https://github.com/0xbitx/DEDSEC-XICOMAP.git
     * cd DEDSEC-XICOMAP
-    * sudo pip3 install pystyle pycryptodome tabulate tqdm
-    * sudo python3 dedsec_xicomap.py
+    * sudo pip3 install pystyle
+    * chmod +x dedsec_xicomap
+    * sudo ./dedsec_xicomap
 
 ### TESTED ON FOLLOWING
 * Kali Linux 
