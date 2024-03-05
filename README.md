@@ -1,3 +1,4 @@
+free-version release soon
 
 <p align="center">
 <img src="https://media3.giphy.com/media/2kXM55r2Ki78LsavEQ/giphy.gif?cid=ecf05e47sa6taafie5ln5fpq9upbt26tjiikgtr6inq0us36&ep=v1_gifs_related&rid=giphy.gif&ct=s", width="400", height="400">
