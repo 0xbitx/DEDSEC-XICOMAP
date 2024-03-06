@@ -98,7 +98,6 @@ free-version release soon
 ## INSTALLATION 
     * git clone https://github.com/0xbitx/DEDSEC-XICOMAP.git
     * cd DEDSEC-XICOMAP
-    * sudo pip3 install pystyle
     * chmod +x dedsec_xicomap
     * sudo ./dedsec_xicomap
 
@@ -106,13 +105,6 @@ free-version release soon
 * Kali Linux 
 * Parrot OS 
 * Ubuntu
-
-### LANGUAGE 
-* Python
-* HTML
-* Css
-* Javascript
-
 
 ## Support
 
