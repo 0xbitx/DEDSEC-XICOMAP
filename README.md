@@ -97,6 +97,7 @@
 ## INSTALLATION 
     * git clone https://github.com/0xbitx/DEDSEC-XICOMAP.git
     * cd DEDSEC-XICOMAP
+    * sudo apt install qutebrowser
     * chmod +x dedsec_xicomap
     * sudo ./dedsec_xicomap
 
