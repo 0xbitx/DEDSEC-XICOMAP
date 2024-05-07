@@ -14,7 +14,6 @@
 | 3.  GPS Location Mapping |  Users' GPS locations are visually represented on a map within the tool, providing an easy-to-understand overview of their positions. |
 | 4.  Street View |  Explore street-level imagery for specific GPS locations, providing a ground-level perspective for enhanced context and navigation.|
 
-
 ### PAYLOAD TEMPLATES
 - Google drive
 - on going..
@@ -92,7 +91,6 @@
 
 ## DEMO  
 <video width="630" height="300" src="https://user-images.githubusercontent.com/"></video>
-
 
 ## INSTALLATION 
     * git clone https://github.com/0xbitx/DEDSEC-XICOMAP.git
