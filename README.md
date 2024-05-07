@@ -16,7 +16,7 @@
 
 ### PAYLOAD TEMPLATES
 - Google drive
-- Pedophilia unlbur
+- Pedophilia unblur
 - Pedophilia play
 
 ### Map Mode Options
