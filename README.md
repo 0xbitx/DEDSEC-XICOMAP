@@ -1,7 +1,8 @@
 
 <p align="center">
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTIzZGtlNzE2eDBxaTQ4Y3Q3cDl6aXg1ZXRwZHdrdWc2emoxNW94ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/T1RuaTPsN738ITo3Rg/giphy.gif", width="400", height="400">
+<img src="https://github.com/0xbitx/DEDSEC-XICOMAP/assets/74537225/bc9bc6b3-1139-48f8-9488-d34c56adf6eb", width="400", height="400">
 </p>
+
 <h1 align="center"> DEDSEC-XICOMAP</h1>
 
 ### DESCRIPTION
