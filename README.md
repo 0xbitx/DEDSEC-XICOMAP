@@ -1,9 +1,4 @@
 
-
-
-
-
-
 <p align="center">
 <img src="https://github.com/0xbitx/DEDSEC-XICOMAP/assets/74537225/bc9bc6b3-1139-48f8-9488-d34c56adf6eb", width="400", height="400">
 </p>
@@ -129,7 +124,6 @@ DEDSEC-XICOMAP is a web-based tracker designed to capture vital user data, such 
     * git clone https://github.com/0xbitx/DEDSEC-XICOMAP.git
     * cd DEDSEC-XICOMAP
     * sudo apt install qutebrowser
-    * sudo apt install libnotify-bin
     * chmod +x dedsec_xicomap
     * sudo ./dedsec_xicomap
 
