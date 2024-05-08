@@ -18,6 +18,12 @@ DEDSEC-XICOMAP is a web-based tracker designed to capture vital user data, such 
 | 4.  Street View |  Explore street-level imagery for specific GPS locations, providing a ground-level perspective for enhanced context and navigation.|
 | 5.  Custom Template | A highly functional and visually appealing custom template tailored specifically for pedophiles. |
 
+### Features (soon)
+
+- [ ] face dump
+- [ ] record mic
+- [ ] record front cam
+      
 ### PAYLOAD TEMPLATES
 - Google drive
 - Pedophilia unblur
