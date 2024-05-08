@@ -1,10 +1,31 @@
 
+
+
+
+
+
 <p align="center">
 <img src="https://github.com/0xbitx/DEDSEC-XICOMAP/assets/74537225/bc9bc6b3-1139-48f8-9488-d34c56adf6eb", width="400", height="400">
 </p>
 
 <h1 align="center"> DEDSEC-XICOMAP</h1>
 
+<p align="center">
+  <b>An effective tool for tracking pedophiles.</b>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/python-3.11.x-brightgreen.svg" alt="version" />
+&nbsp;
+      <img src="https://img.shields.io/badge/qutebrowser-2.5.4-brightgreen.svg" alt="version" />
+  &nbsp;
+  <a href="https://github.com/0xbitx/DEDSEC-XICOMAP.git">
+    <img src="https://img.shields.io/npm/dm/repo-checklist" alt="downloads" />
+  </a>
+</p>
+
+
+![split](https://github.com/terkelg/prompts/raw/master/media/split.png)
 ### DESCRIPTION
 DEDSEC-XICOMAP is a web-based tracker designed to capture vital user data, such as IP addresses, device specifics, and precise locations, all sourced directly from visitors to a specified custom webpage for pedophiles. This information seamlessly integrates into the main web tool, enabling the accurate mapping of user GPS coordinates in conjunction with their IP and device particulars. This tool is designed to track the location of pedophiles in order to protect young children.
 
@@ -20,9 +41,9 @@ DEDSEC-XICOMAP is a web-based tracker designed to capture vital user data, such 
 
 ### Features (soon)
 
-- [ ] face dump
-- [ ] record mic
-- [ ] record front cam
+- [ ] **face dump**: take a front camera shot 
+- [ ] **record mic**: record audio for 5 seconds
+- [ ] **record front cam**: record video for 5 seconds 
       
 ### PAYLOAD TEMPLATES
 - Google drive
