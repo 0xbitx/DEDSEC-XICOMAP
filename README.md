@@ -3,7 +3,9 @@
 <img src="https://cdn-icons-png.flaticon.com/512/11586/11586367.png", width="400", height="400">
 </p>
 <h1 align="center"> DEDSEC-XICOMAP</h1>
-<h4 align="center">DEDSEC-XICOMAP is a Web-Based Tracker that captures crucial user data, including IP addresses, device information, and exact locations, directly from visitors to a designated webpage. This data is then seamlessly integrated into the main web tool, allowing for the precise mapping of user GPS locations alongside their IP and device details.</h4>
+
+### DESCRIPTION
+DEDSEC-XICOMAP is a web-based tracker designed to capture vital user data, such as IP addresses, device specifics, and precise locations, all sourced directly from visitors to a specified custom webpage for pedophiles. This information seamlessly integrates into the main web tool, enabling the accurate mapping of user GPS coordinates in conjunction with their IP and device particulars. This tool is designed to track the location of pedophiles in order to protect young children.
 
 ## Key Features
 
