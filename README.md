@@ -62,12 +62,14 @@ DEDSEC-XICOMAP is a web-based tracker designed to capture vital user data, such 
 <img src="https://github.com/0xbitx/DEDSEC-XICOMAP/assets/74537225/78492b60-cabc-4294-8c3f-335037c18068", width="1000", height="1000">
 </p>
 
-<h3 align="center"> MAIN PAGE</h3>
+<h3 align="center">MAIN PAGE</h3>
+
 <p align="center">
 <img src="https://github.com/0xbitx/DEDSEC-XICOMAP/blob/main/mode/xicomap.png", width="1000", height="1000">
 </p>
 
-<h3 align="center"> MAP MODE</h3>
+<h3 align="center">MAP MODE</h3>
+
 <table>
   <tr>
     <td align="center">
