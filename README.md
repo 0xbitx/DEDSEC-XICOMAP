@@ -45,6 +45,7 @@ DEDSEC-XICOMAP is a web-based tracker designed to capture vital user data, such 
 - Pedophilia unblur
 - Pedophilia play
 - Pedophilia downloadme
+- coming soon
 
 ### Map Mode Options
 | Mode | Description                |
