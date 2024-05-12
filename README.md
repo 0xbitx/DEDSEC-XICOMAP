@@ -29,7 +29,7 @@ DEDSEC-XICOMAP is a web-based tracker designed to capture vital user data, such 
 | Feature | Description                |
 | :-------- | ------------------------- |
 | 1. Webpage Data Collection |   When users visit the payload webpage, the tool automatically collects their IP address, device information, and precise location data.|
-| 2. Real-Time Integration | The collected data is instantly integrated into the main web tool, ensuring up-to-the-minute accuracy.|
+| 2. Real-Time Integration | The gathered data is automatically refreshed on the main page, guaranteeing real-time accuracy.|
 | 3.  GPS Location Mapping |  Users' GPS locations are visually represented on a map within the tool, providing an easy-to-understand overview of their positions. |
 | 4.  Street View |  Explore street-level imagery for specific GPS locations, providing a ground-level perspective for enhanced context and navigation.|
 | 5.  Custom Template | A highly functional and visually appealing custom template tailored specifically for pedophiles. |
