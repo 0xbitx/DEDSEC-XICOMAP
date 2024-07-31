@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://github.com/0xbitx/DEDSEC-XICOMAP/assets/74537225/bc9bc6b3-1139-48f8-9488-d34c56adf6eb", width="400", height="400">
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHlyYXZ5Y3hqZHpzNzdiOTJ5ZHF5YmgxMXoybmN2a2ZwemEzdmUxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l396Hbs3ngXH92gbS/giphy.webp", width="400", height="400">
 </p>
 
 <h1 align="center"> DEDSEC-XICOMAP</h1>
